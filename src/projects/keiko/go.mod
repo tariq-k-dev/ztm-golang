@@ -3,7 +3,7 @@ module keiko
 go 1.21
 
 require (
-	github.com/chai2010/webp v1.1.1
+	github.com/chai2010/webp v1.1.2-0.20250406010349-76805d5a8860
 	github.com/fatih/color v1.13.0
 	github.com/mattn/go-sqlite3 v1.14.15
 )
